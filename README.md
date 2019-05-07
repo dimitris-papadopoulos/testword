@@ -1,4 +1,4 @@
 # testword
 wordpress with github
 
-dimitris-papadopoulos.github.io/testword/
+https://dimitris-papadopoulos.github.io/testword/
